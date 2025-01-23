@@ -1,7 +1,7 @@
 # Igloo Laboratory Management System
 
 <video controls autoplay loop>
-  <source src="https://github.com/Pranadi777/Igloo/blob/main/igloo_giphy_480.mov" type="video/mp4">
+  <source src="https://github.com/Pranadi777/Igloo/blob/main/igloo_giphy_480.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
