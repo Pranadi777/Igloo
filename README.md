@@ -1,10 +1,6 @@
 # Igloo Laboratory Management System
 
-<video controls autoplay loop>
-  <source src="https://github.com/Pranadi777/Igloo/blob/main/igloo_giphy_480.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[Watch the video demo](https://github.com/Pranadi777/Igloo/raw/main/igloo_giphy_480.mp4)
 
 **Igloo** is a sophisticated laboratory management system designed to streamline the organization and tracking of laboratory resources. This platform empowers researchers and lab administrators by offering a structured, user-friendly solution for managing items, metadata, and storage units within a collaborative environment.
 
